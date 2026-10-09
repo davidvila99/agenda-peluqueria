@@ -9,7 +9,7 @@ Agenda de peluquería que entiende los **tiempos de pose**. Un servicio no es un
 | **L** · lavado | ocupada | ocupa 1 de 2 |
 
 Proyecto en Lovable: https://lovable.dev/projects/afb344c1-caf6-4384-aa41-1f2af15c190e
-Previsualización: https://id-preview--afb344c1-caf6-4384-aa41-1f2af15c190e.lovable.app
+Previsualización: https://peluqueria-agenda.lovable.app
 
 ## Cómo arrancarlo
 
